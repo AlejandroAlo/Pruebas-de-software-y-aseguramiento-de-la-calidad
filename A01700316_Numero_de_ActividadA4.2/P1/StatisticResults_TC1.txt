@@ -1,0 +1,8 @@
+Estadísticas Descriptivas:
+Cantidad de elementos: 399
+Media: 241.91228070175438
+Mediana: 239.0
+Moda: [393.0, 170.0]
+Varianza: 21086.30558853275
+Desviación Estándar: 145.21124470416453
+Tiempo Transcurrido: 0.001000 segundos
