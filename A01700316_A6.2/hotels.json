@@ -1,0 +1,14 @@
+[
+    {
+        "hotel_id": "H001",
+        "name": "Hotel Safi Inn",
+        "address": "Lazaro 109",
+        "total_rooms": 50
+    },
+    {
+        "hotel_id": "H002",
+        "name": "Parras Hotel",
+        "address": "Ave Revolucion 54",
+        "total_rooms": 100
+    }
+]

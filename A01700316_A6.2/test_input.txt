@@ -1,0 +1,6 @@
+Hotel;H001;Hotel Safi Inn;Lazaro 109;50
+Hotel;H002;Parras Hotel;Ave Revolucion 54;100
+Customer;C001;Manuel Palacios;manuel@example.com
+Customer;C002;Pablo Landeros;pablol@example.com
+Reservation;R001;H001;C001
+Reservation;R002;H002;C002
